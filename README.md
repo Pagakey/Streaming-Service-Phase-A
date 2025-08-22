@@ -1,16 +1,15 @@
 # Streaming-Service-Phase-A
 Streaming Service Simulation, Written in C programming Language, part of Data Structures course
 
-Runn using Makefile
--make 
-./cs240StreamingService <testfile>
-*afterwards*
--make clean
-
-Description:
-Users with watch history and suggested movie list
-Movies with movie id (mid) and release year (year) as well as movie category
-6 Categories (0->5): Horror, SCI-FI, Drama, Romance, Documentary, Comedy
+Runn using Makefile <br>
+-make <br>
+./cs240StreamingService <testfile> <br>
+*afterwards* <br>
+-make clean <br>
+Description: <br>
+Users with watch history and suggested movie list<br>
+Movies with movie id (mid) and release year (year) as well as movie category<br>
+6 Categories (0->5): Horror, SCI-FI, Drama, Romance, Documentary, Comedy <br><br>
 
 
 Events:
