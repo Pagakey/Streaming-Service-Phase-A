@@ -1,7 +1,7 @@
-# Streaming-Service-Phase-A
+# Streaming Service Phase-A
 Streaming Service Simulation, Written in C programming Language, part of Data Structures course
 
-Runn using Makefile <br>
+Run using Makefile: <br>
 -make <br>
 ./cs240StreamingService <testfile> <br>
 *afterwards* <br>
